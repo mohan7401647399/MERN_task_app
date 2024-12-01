@@ -4,8 +4,7 @@ A task management application built with the MERN stack (MongoDB, Express.js, Re
 
 ## Live Demo
 
-[text](https://mern-task-app-react.netlify.app/)
-
+    https://mern-task-app-react.netlify.app
 
 ## Usage
 
