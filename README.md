@@ -62,12 +62,12 @@ Follow these steps to set up the project locally.
     cd MERN_task_app
 
 3. Install dependencies:
-**For the server**:
-    cd server
-    npm install
-**For the client**:
-    cd client
-    npm install
+    **For the server**:
+        cd server
+        npm install
+    **For the client**:
+        cd client
+        npm install
 
 
 4. Configure environment variables:
@@ -79,13 +79,13 @@ Follow these steps to set up the project locally.
 
 5. Run the application:
 
-    Start the backend:
+ -   Start the backend:
         cd server
-    npm run dev
+ -   npm run dev
         Start the frontend:
-    cd client
+ -   cd client
         npm start
 
 6. Open your browser and go to:
 
-    http://localhost:3000
+  -  http://localhost:3000
