@@ -80,7 +80,7 @@ Follow these steps to set up the project locally.
 5. Run the application:
 
  -   Start the backend:
- --       cd server
+-       cd server
  -   npm run dev
  -       Start the frontend:
  -   cd client
