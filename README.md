@@ -13,9 +13,9 @@ A task management application built with the MERN stack (MongoDB, Express.js, Re
 **Task Creation**:
         Add new tasks with title, description, and optional category.
 **Task Management**:
-    Edit or delete tasks and mark them as complete or incomplete.
+        Edit or delete tasks and mark them as complete or incomplete.
 **Search and Filter**:
-Locate tasks easily with built-in search and filtering features.
+        Locate tasks easily with built-in search and filtering features.
 
 ## Features
 
@@ -59,8 +59,7 @@ Follow these steps to set up the project locally.
    git clone https://github.com/mohan7401647399/MERN_task_app.git
 
 2. Navigate to the project directory:
-
-cd MERN_task_app
+    cd MERN_task_app
 
 3. Install dependencies:
 **For the server**:
@@ -71,14 +70,14 @@ cd MERN_task_app
     npm install
 
 
-**Configure environment variables**:
-    Create a .env file in the server directory with the following:
+4. Configure environment variables:
+    **Create a .env file in the server directory with the following**:
 
         PORT=5000
         MONGO_URI=your_mongodb_connection_string
         JWT_SECRET=your_secret_key
 
-**Run the application**:
+5. Run the application:
 
     Start the backend:
         cd server
@@ -87,6 +86,6 @@ cd MERN_task_app
     cd client
         npm start
 
-**Open your browser and go to**:
+6. Open your browser and go to:
 
     http://localhost:3000
